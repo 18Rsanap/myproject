@@ -1,2 +1,3 @@
 # myproject
-This is My first git repository
+This is My first git repository.
+author-Ranjit Sanap
